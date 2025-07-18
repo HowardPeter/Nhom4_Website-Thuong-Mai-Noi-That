@@ -1,0 +1,737 @@
+{
+  "accepts@2.0.0": {
+    "licenses": "MIT",
+    "repository": "https://github.com/jshttp/accepts",
+    "path": "D:\\GitProject\\Nhom4_Website-Thuong-Mai-Noi-That\\backend\\node_modules\\accepts",
+    "licenseFile": "D:\\GitProject\\Nhom4_Website-Thuong-Mai-Noi-That\\backend\\node_modules\\accepts\\LICENSE"
+  },
+  "anymatch@3.1.3": {
+    "licenses": "ISC",
+    "repository": "https://github.com/micromatch/anymatch",
+    "publisher": "Elan Shanker",
+    "url": "https://github.com/es128",
+    "path": "D:\\GitProject\\Nhom4_Website-Thuong-Mai-Noi-That\\backend\\node_modules\\anymatch",
+    "licenseFile": "D:\\GitProject\\Nhom4_Website-Thuong-Mai-Noi-That\\backend\\node_modules\\anymatch\\LICENSE"
+  },
+  "backend@1.0.0": {
+    "licenses": "ISC",
+    "path": "D:\\GitProject\\Nhom4_Website-Thuong-Mai-Noi-That\\backend"
+  },
+  "balanced-match@1.0.2": {
+    "licenses": "MIT",
+    "repository": "https://github.com/juliangruber/balanced-match",
+    "publisher": "Julian Gruber",
+    "email": "mail@juliangruber.com",
+    "url": "http://juliangruber.com",
+    "path": "D:\\GitProject\\Nhom4_Website-Thuong-Mai-Noi-That\\backend\\node_modules\\balanced-match",
+    "licenseFile": "D:\\GitProject\\Nhom4_Website-Thuong-Mai-Noi-That\\backend\\node_modules\\balanced-match\\LICENSE.md"
+  },
+  "binary-extensions@2.3.0": {
+    "licenses": "MIT",
+    "repository": "https://github.com/sindresorhus/binary-extensions",
+    "publisher": "Sindre Sorhus",
+    "email": "sindresorhus@gmail.com",
+    "url": "https://sindresorhus.com",
+    "path": "D:\\GitProject\\Nhom4_Website-Thuong-Mai-Noi-That\\backend\\node_modules\\binary-extensions",
+    "licenseFile": "D:\\GitProject\\Nhom4_Website-Thuong-Mai-Noi-That\\backend\\node_modules\\binary-extensions\\license"
+  },
+  "body-parser@2.2.0": {
+    "licenses": "MIT",
+    "repository": "https://github.com/expressjs/body-parser",
+    "path": "D:\\GitProject\\Nhom4_Website-Thuong-Mai-Noi-That\\backend\\node_modules\\body-parser",
+    "licenseFile": "D:\\GitProject\\Nhom4_Website-Thuong-Mai-Noi-That\\backend\\node_modules\\body-parser\\LICENSE"
+  },
+  "brace-expansion@1.1.12": {
+    "licenses": "MIT",
+    "repository": "https://github.com/juliangruber/brace-expansion",
+    "publisher": "Julian Gruber",
+    "email": "mail@juliangruber.com",
+    "url": "http://juliangruber.com",
+    "path": "D:\\GitProject\\Nhom4_Website-Thuong-Mai-Noi-That\\backend\\node_modules\\brace-expansion",
+    "licenseFile": "D:\\GitProject\\Nhom4_Website-Thuong-Mai-Noi-That\\backend\\node_modules\\brace-expansion\\LICENSE"
+  },
+  "braces@3.0.3": {
+    "licenses": "MIT",
+    "repository": "https://github.com/micromatch/braces",
+    "publisher": "Jon Schlinkert",
+    "url": "https://github.com/jonschlinkert",
+    "path": "D:\\GitProject\\Nhom4_Website-Thuong-Mai-Noi-That\\backend\\node_modules\\braces",
+    "licenseFile": "D:\\GitProject\\Nhom4_Website-Thuong-Mai-Noi-That\\backend\\node_modules\\braces\\LICENSE"
+  },
+  "bytes@3.1.2": {
+    "licenses": "MIT",
+    "repository": "https://github.com/visionmedia/bytes.js",
+    "publisher": "TJ Holowaychuk",
+    "email": "tj@vision-media.ca",
+    "url": "http://tjholowaychuk.com",
+    "path": "D:\\GitProject\\Nhom4_Website-Thuong-Mai-Noi-That\\backend\\node_modules\\bytes",
+    "licenseFile": "D:\\GitProject\\Nhom4_Website-Thuong-Mai-Noi-That\\backend\\node_modules\\bytes\\LICENSE"
+  },
+  "call-bind-apply-helpers@1.0.2": {
+    "licenses": "MIT",
+    "repository": "https://github.com/ljharb/call-bind-apply-helpers",
+    "publisher": "Jordan Harband",
+    "email": "ljharb@gmail.com",
+    "path": "D:\\GitProject\\Nhom4_Website-Thuong-Mai-Noi-That\\backend\\node_modules\\call-bind-apply-helpers",
+    "licenseFile": "D:\\GitProject\\Nhom4_Website-Thuong-Mai-Noi-That\\backend\\node_modules\\call-bind-apply-helpers\\LICENSE"
+  },
+  "call-bound@1.0.4": {
+    "licenses": "MIT",
+    "repository": "https://github.com/ljharb/call-bound",
+    "publisher": "Jordan Harband",
+    "email": "ljharb@gmail.com",
+    "path": "D:\\GitProject\\Nhom4_Website-Thuong-Mai-Noi-That\\backend\\node_modules\\call-bound",
+    "licenseFile": "D:\\GitProject\\Nhom4_Website-Thuong-Mai-Noi-That\\backend\\node_modules\\call-bound\\LICENSE"
+  },
+  "chokidar@3.6.0": {
+    "licenses": "MIT",
+    "repository": "https://github.com/paulmillr/chokidar",
+    "publisher": "Paul Miller",
+    "url": "https://paulmillr.com",
+    "path": "D:\\GitProject\\Nhom4_Website-Thuong-Mai-Noi-That\\backend\\node_modules\\chokidar",
+    "licenseFile": "D:\\GitProject\\Nhom4_Website-Thuong-Mai-Noi-That\\backend\\node_modules\\chokidar\\LICENSE"
+  },
+  "concat-map@0.0.1": {
+    "licenses": "MIT",
+    "repository": "https://github.com/substack/node-concat-map",
+    "publisher": "James Halliday",
+    "email": "mail@substack.net",
+    "url": "http://substack.net",
+    "path": "D:\\GitProject\\Nhom4_Website-Thuong-Mai-Noi-That\\backend\\node_modules\\concat-map",
+    "licenseFile": "D:\\GitProject\\Nhom4_Website-Thuong-Mai-Noi-That\\backend\\node_modules\\concat-map\\LICENSE"
+  },
+  "content-disposition@1.0.0": {
+    "licenses": "MIT",
+    "repository": "https://github.com/jshttp/content-disposition",
+    "publisher": "Douglas Christopher Wilson",
+    "email": "doug@somethingdoug.com",
+    "path": "D:\\GitProject\\Nhom4_Website-Thuong-Mai-Noi-That\\backend\\node_modules\\content-disposition",
+    "licenseFile": "D:\\GitProject\\Nhom4_Website-Thuong-Mai-Noi-That\\backend\\node_modules\\content-disposition\\LICENSE"
+  },
+  "content-type@1.0.5": {
+    "licenses": "MIT",
+    "repository": "https://github.com/jshttp/content-type",
+    "publisher": "Douglas Christopher Wilson",
+    "email": "doug@somethingdoug.com",
+    "path": "D:\\GitProject\\Nhom4_Website-Thuong-Mai-Noi-That\\backend\\node_modules\\content-type",
+    "licenseFile": "D:\\GitProject\\Nhom4_Website-Thuong-Mai-Noi-That\\backend\\node_modules\\content-type\\LICENSE"
+  },
+  "cookie-signature@1.2.2": {
+    "licenses": "MIT",
+    "repository": "https://github.com/visionmedia/node-cookie-signature",
+    "publisher": "TJ Holowaychuk",
+    "email": "tj@learnboost.com",
+    "path": "D:\\GitProject\\Nhom4_Website-Thuong-Mai-Noi-That\\backend\\node_modules\\cookie-signature",
+    "licenseFile": "D:\\GitProject\\Nhom4_Website-Thuong-Mai-Noi-That\\backend\\node_modules\\cookie-signature\\LICENSE"
+  },
+  "cookie@0.7.2": {
+    "licenses": "MIT",
+    "repository": "https://github.com/jshttp/cookie",
+    "publisher": "Roman Shtylman",
+    "email": "shtylman@gmail.com",
+    "path": "D:\\GitProject\\Nhom4_Website-Thuong-Mai-Noi-That\\backend\\node_modules\\cookie",
+    "licenseFile": "D:\\GitProject\\Nhom4_Website-Thuong-Mai-Noi-That\\backend\\node_modules\\cookie\\LICENSE"
+  },
+  "debug@4.4.1": {
+    "licenses": "MIT",
+    "repository": "https://github.com/debug-js/debug",
+    "publisher": "Josh Junon",
+    "url": "https://github.com/qix-",
+    "path": "D:\\GitProject\\Nhom4_Website-Thuong-Mai-Noi-That\\backend\\node_modules\\debug",
+    "licenseFile": "D:\\GitProject\\Nhom4_Website-Thuong-Mai-Noi-That\\backend\\node_modules\\debug\\LICENSE"
+  },
+  "depd@2.0.0": {
+    "licenses": "MIT",
+    "repository": "https://github.com/dougwilson/nodejs-depd",
+    "publisher": "Douglas Christopher Wilson",
+    "email": "doug@somethingdoug.com",
+    "path": "D:\\GitProject\\Nhom4_Website-Thuong-Mai-Noi-That\\backend\\node_modules\\depd",
+    "licenseFile": "D:\\GitProject\\Nhom4_Website-Thuong-Mai-Noi-That\\backend\\node_modules\\depd\\LICENSE"
+  },
+  "dunder-proto@1.0.1": {
+    "licenses": "MIT",
+    "repository": "https://github.com/es-shims/dunder-proto",
+    "publisher": "Jordan Harband",
+    "email": "ljharb@gmail.com",
+    "path": "D:\\GitProject\\Nhom4_Website-Thuong-Mai-Noi-That\\backend\\node_modules\\dunder-proto",
+    "licenseFile": "D:\\GitProject\\Nhom4_Website-Thuong-Mai-Noi-That\\backend\\node_modules\\dunder-proto\\LICENSE"
+  },
+  "ee-first@1.1.1": {
+    "licenses": "MIT",
+    "repository": "https://github.com/jonathanong/ee-first",
+    "publisher": "Jonathan Ong",
+    "email": "me@jongleberry.com",
+    "url": "http://jongleberry.com",
+    "path": "D:\\GitProject\\Nhom4_Website-Thuong-Mai-Noi-That\\backend\\node_modules\\ee-first",
+    "licenseFile": "D:\\GitProject\\Nhom4_Website-Thuong-Mai-Noi-That\\backend\\node_modules\\ee-first\\LICENSE"
+  },
+  "encodeurl@2.0.0": {
+    "licenses": "MIT",
+    "repository": "https://github.com/pillarjs/encodeurl",
+    "path": "D:\\GitProject\\Nhom4_Website-Thuong-Mai-Noi-That\\backend\\node_modules\\encodeurl",
+    "licenseFile": "D:\\GitProject\\Nhom4_Website-Thuong-Mai-Noi-That\\backend\\node_modules\\encodeurl\\LICENSE"
+  },
+  "es-define-property@1.0.1": {
+    "licenses": "MIT",
+    "repository": "https://github.com/ljharb/es-define-property",
+    "publisher": "Jordan Harband",
+    "email": "ljharb@gmail.com",
+    "path": "D:\\GitProject\\Nhom4_Website-Thuong-Mai-Noi-That\\backend\\node_modules\\es-define-property",
+    "licenseFile": "D:\\GitProject\\Nhom4_Website-Thuong-Mai-Noi-That\\backend\\node_modules\\es-define-property\\LICENSE"
+  },
+  "es-errors@1.3.0": {
+    "licenses": "MIT",
+    "repository": "https://github.com/ljharb/es-errors",
+    "publisher": "Jordan Harband",
+    "email": "ljharb@gmail.com",
+    "path": "D:\\GitProject\\Nhom4_Website-Thuong-Mai-Noi-That\\backend\\node_modules\\es-errors",
+    "licenseFile": "D:\\GitProject\\Nhom4_Website-Thuong-Mai-Noi-That\\backend\\node_modules\\es-errors\\LICENSE"
+  },
+  "es-object-atoms@1.1.1": {
+    "licenses": "MIT",
+    "repository": "https://github.com/ljharb/es-object-atoms",
+    "publisher": "Jordan Harband",
+    "email": "ljharb@gmail.com",
+    "path": "D:\\GitProject\\Nhom4_Website-Thuong-Mai-Noi-That\\backend\\node_modules\\es-object-atoms",
+    "licenseFile": "D:\\GitProject\\Nhom4_Website-Thuong-Mai-Noi-That\\backend\\node_modules\\es-object-atoms\\LICENSE"
+  },
+  "escape-html@1.0.3": {
+    "licenses": "MIT",
+    "repository": "https://github.com/component/escape-html",
+    "path": "D:\\GitProject\\Nhom4_Website-Thuong-Mai-Noi-That\\backend\\node_modules\\escape-html",
+    "licenseFile": "D:\\GitProject\\Nhom4_Website-Thuong-Mai-Noi-That\\backend\\node_modules\\escape-html\\LICENSE"
+  },
+  "etag@1.8.1": {
+    "licenses": "MIT",
+    "repository": "https://github.com/jshttp/etag",
+    "path": "D:\\GitProject\\Nhom4_Website-Thuong-Mai-Noi-That\\backend\\node_modules\\etag",
+    "licenseFile": "D:\\GitProject\\Nhom4_Website-Thuong-Mai-Noi-That\\backend\\node_modules\\etag\\LICENSE"
+  },
+  "express@5.1.0": {
+    "licenses": "MIT",
+    "repository": "https://github.com/expressjs/express",
+    "publisher": "TJ Holowaychuk",
+    "email": "tj@vision-media.ca",
+    "path": "D:\\GitProject\\Nhom4_Website-Thuong-Mai-Noi-That\\backend\\node_modules\\express",
+    "licenseFile": "D:\\GitProject\\Nhom4_Website-Thuong-Mai-Noi-That\\backend\\node_modules\\express\\LICENSE"
+  },
+  "fill-range@7.1.1": {
+    "licenses": "MIT",
+    "repository": "https://github.com/jonschlinkert/fill-range",
+    "publisher": "Jon Schlinkert",
+    "url": "https://github.com/jonschlinkert",
+    "path": "D:\\GitProject\\Nhom4_Website-Thuong-Mai-Noi-That\\backend\\node_modules\\fill-range",
+    "licenseFile": "D:\\GitProject\\Nhom4_Website-Thuong-Mai-Noi-That\\backend\\node_modules\\fill-range\\LICENSE"
+  },
+  "finalhandler@2.1.0": {
+    "licenses": "MIT",
+    "repository": "https://github.com/pillarjs/finalhandler",
+    "publisher": "Douglas Christopher Wilson",
+    "email": "doug@somethingdoug.com",
+    "path": "D:\\GitProject\\Nhom4_Website-Thuong-Mai-Noi-That\\backend\\node_modules\\finalhandler",
+    "licenseFile": "D:\\GitProject\\Nhom4_Website-Thuong-Mai-Noi-That\\backend\\node_modules\\finalhandler\\LICENSE"
+  },
+  "forwarded@0.2.0": {
+    "licenses": "MIT",
+    "repository": "https://github.com/jshttp/forwarded",
+    "path": "D:\\GitProject\\Nhom4_Website-Thuong-Mai-Noi-That\\backend\\node_modules\\forwarded",
+    "licenseFile": "D:\\GitProject\\Nhom4_Website-Thuong-Mai-Noi-That\\backend\\node_modules\\forwarded\\LICENSE"
+  },
+  "fresh@2.0.0": {
+    "licenses": "MIT",
+    "repository": "https://github.com/jshttp/fresh",
+    "publisher": "TJ Holowaychuk",
+    "email": "tj@vision-media.ca",
+    "url": "http://tjholowaychuk.com",
+    "path": "D:\\GitProject\\Nhom4_Website-Thuong-Mai-Noi-That\\backend\\node_modules\\fresh",
+    "licenseFile": "D:\\GitProject\\Nhom4_Website-Thuong-Mai-Noi-That\\backend\\node_modules\\fresh\\LICENSE"
+  },
+  "function-bind@1.1.2": {
+    "licenses": "MIT",
+    "repository": "https://github.com/Raynos/function-bind",
+    "publisher": "Raynos",
+    "email": "raynos2@gmail.com",
+    "path": "D:\\GitProject\\Nhom4_Website-Thuong-Mai-Noi-That\\backend\\node_modules\\function-bind",
+    "licenseFile": "D:\\GitProject\\Nhom4_Website-Thuong-Mai-Noi-That\\backend\\node_modules\\function-bind\\LICENSE"
+  },
+  "get-intrinsic@1.3.0": {
+    "licenses": "MIT",
+    "repository": "https://github.com/ljharb/get-intrinsic",
+    "publisher": "Jordan Harband",
+    "email": "ljharb@gmail.com",
+    "path": "D:\\GitProject\\Nhom4_Website-Thuong-Mai-Noi-That\\backend\\node_modules\\get-intrinsic",
+    "licenseFile": "D:\\GitProject\\Nhom4_Website-Thuong-Mai-Noi-That\\backend\\node_modules\\get-intrinsic\\LICENSE"
+  },
+  "get-proto@1.0.1": {
+    "licenses": "MIT",
+    "repository": "https://github.com/ljharb/get-proto",
+    "publisher": "Jordan Harband",
+    "email": "ljharb@gmail.com",
+    "path": "D:\\GitProject\\Nhom4_Website-Thuong-Mai-Noi-That\\backend\\node_modules\\get-proto",
+    "licenseFile": "D:\\GitProject\\Nhom4_Website-Thuong-Mai-Noi-That\\backend\\node_modules\\get-proto\\LICENSE"
+  },
+  "glob-parent@5.1.2": {
+    "licenses": "ISC",
+    "repository": "https://github.com/gulpjs/glob-parent",
+    "publisher": "Gulp Team",
+    "email": "team@gulpjs.com",
+    "url": "https://gulpjs.com/",
+    "path": "D:\\GitProject\\Nhom4_Website-Thuong-Mai-Noi-That\\backend\\node_modules\\glob-parent",
+    "licenseFile": "D:\\GitProject\\Nhom4_Website-Thuong-Mai-Noi-That\\backend\\node_modules\\glob-parent\\LICENSE"
+  },
+  "gopd@1.2.0": {
+    "licenses": "MIT",
+    "repository": "https://github.com/ljharb/gopd",
+    "publisher": "Jordan Harband",
+    "email": "ljharb@gmail.com",
+    "path": "D:\\GitProject\\Nhom4_Website-Thuong-Mai-Noi-That\\backend\\node_modules\\gopd",
+    "licenseFile": "D:\\GitProject\\Nhom4_Website-Thuong-Mai-Noi-That\\backend\\node_modules\\gopd\\LICENSE"
+  },
+  "has-flag@3.0.0": {
+    "licenses": "MIT",
+    "repository": "https://github.com/sindresorhus/has-flag",
+    "publisher": "Sindre Sorhus",
+    "email": "sindresorhus@gmail.com",
+    "url": "sindresorhus.com",
+    "path": "D:\\GitProject\\Nhom4_Website-Thuong-Mai-Noi-That\\backend\\node_modules\\has-flag",
+    "licenseFile": "D:\\GitProject\\Nhom4_Website-Thuong-Mai-Noi-That\\backend\\node_modules\\has-flag\\license"
+  },
+  "has-symbols@1.1.0": {
+    "licenses": "MIT",
+    "repository": "https://github.com/inspect-js/has-symbols",
+    "publisher": "Jordan Harband",
+    "email": "ljharb@gmail.com",
+    "url": "http://ljharb.codes",
+    "path": "D:\\GitProject\\Nhom4_Website-Thuong-Mai-Noi-That\\backend\\node_modules\\has-symbols",
+    "licenseFile": "D:\\GitProject\\Nhom4_Website-Thuong-Mai-Noi-That\\backend\\node_modules\\has-symbols\\LICENSE"
+  },
+  "hasown@2.0.2": {
+    "licenses": "MIT",
+    "repository": "https://github.com/inspect-js/hasOwn",
+    "publisher": "Jordan Harband",
+    "email": "ljharb@gmail.com",
+    "path": "D:\\GitProject\\Nhom4_Website-Thuong-Mai-Noi-That\\backend\\node_modules\\hasown",
+    "licenseFile": "D:\\GitProject\\Nhom4_Website-Thuong-Mai-Noi-That\\backend\\node_modules\\hasown\\LICENSE"
+  },
+  "http-errors@2.0.0": {
+    "licenses": "MIT",
+    "repository": "https://github.com/jshttp/http-errors",
+    "publisher": "Jonathan Ong",
+    "email": "me@jongleberry.com",
+    "url": "http://jongleberry.com",
+    "path": "D:\\GitProject\\Nhom4_Website-Thuong-Mai-Noi-That\\backend\\node_modules\\http-errors",
+    "licenseFile": "D:\\GitProject\\Nhom4_Website-Thuong-Mai-Noi-That\\backend\\node_modules\\http-errors\\LICENSE"
+  },
+  "iconv-lite@0.6.3": {
+    "licenses": "MIT",
+    "repository": "https://github.com/ashtuchkin/iconv-lite",
+    "publisher": "Alexander Shtuchkin",
+    "email": "ashtuchkin@gmail.com",
+    "path": "D:\\GitProject\\Nhom4_Website-Thuong-Mai-Noi-That\\backend\\node_modules\\iconv-lite",
+    "licenseFile": "D:\\GitProject\\Nhom4_Website-Thuong-Mai-Noi-That\\backend\\node_modules\\iconv-lite\\LICENSE"
+  },
+  "ignore-by-default@1.0.1": {
+    "licenses": "ISC",
+    "repository": "https://github.com/novemberborn/ignore-by-default",
+    "publisher": "Mark Wubben",
+    "url": "https://novemberborn.net/",
+    "path": "D:\\GitProject\\Nhom4_Website-Thuong-Mai-Noi-That\\backend\\node_modules\\ignore-by-default",
+    "licenseFile": "D:\\GitProject\\Nhom4_Website-Thuong-Mai-Noi-That\\backend\\node_modules\\ignore-by-default\\LICENSE"
+  },
+  "inherits@2.0.4": {
+    "licenses": "ISC",
+    "repository": "https://github.com/isaacs/inherits",
+    "path": "D:\\GitProject\\Nhom4_Website-Thuong-Mai-Noi-That\\backend\\node_modules\\inherits",
+    "licenseFile": "D:\\GitProject\\Nhom4_Website-Thuong-Mai-Noi-That\\backend\\node_modules\\inherits\\LICENSE"
+  },
+  "ipaddr.js@1.9.1": {
+    "licenses": "MIT",
+    "repository": "https://github.com/whitequark/ipaddr.js",
+    "publisher": "whitequark",
+    "email": "whitequark@whitequark.org",
+    "path": "D:\\GitProject\\Nhom4_Website-Thuong-Mai-Noi-That\\backend\\node_modules\\ipaddr.js",
+    "licenseFile": "D:\\GitProject\\Nhom4_Website-Thuong-Mai-Noi-That\\backend\\node_modules\\ipaddr.js\\LICENSE"
+  },
+  "is-binary-path@2.1.0": {
+    "licenses": "MIT",
+    "repository": "https://github.com/sindresorhus/is-binary-path",
+    "publisher": "Sindre Sorhus",
+    "email": "sindresorhus@gmail.com",
+    "url": "sindresorhus.com",
+    "path": "D:\\GitProject\\Nhom4_Website-Thuong-Mai-Noi-That\\backend\\node_modules\\is-binary-path",
+    "licenseFile": "D:\\GitProject\\Nhom4_Website-Thuong-Mai-Noi-That\\backend\\node_modules\\is-binary-path\\license"
+  },
+  "is-extglob@2.1.1": {
+    "licenses": "MIT",
+    "repository": "https://github.com/jonschlinkert/is-extglob",
+    "publisher": "Jon Schlinkert",
+    "url": "https://github.com/jonschlinkert",
+    "path": "D:\\GitProject\\Nhom4_Website-Thuong-Mai-Noi-That\\backend\\node_modules\\is-extglob",
+    "licenseFile": "D:\\GitProject\\Nhom4_Website-Thuong-Mai-Noi-That\\backend\\node_modules\\is-extglob\\LICENSE"
+  },
+  "is-glob@4.0.3": {
+    "licenses": "MIT",
+    "repository": "https://github.com/micromatch/is-glob",
+    "publisher": "Jon Schlinkert",
+    "url": "https://github.com/jonschlinkert",
+    "path": "D:\\GitProject\\Nhom4_Website-Thuong-Mai-Noi-That\\backend\\node_modules\\is-glob",
+    "licenseFile": "D:\\GitProject\\Nhom4_Website-Thuong-Mai-Noi-That\\backend\\node_modules\\is-glob\\LICENSE"
+  },
+  "is-number@7.0.0": {
+    "licenses": "MIT",
+    "repository": "https://github.com/jonschlinkert/is-number",
+    "publisher": "Jon Schlinkert",
+    "url": "https://github.com/jonschlinkert",
+    "path": "D:\\GitProject\\Nhom4_Website-Thuong-Mai-Noi-That\\backend\\node_modules\\is-number",
+    "licenseFile": "D:\\GitProject\\Nhom4_Website-Thuong-Mai-Noi-That\\backend\\node_modules\\is-number\\LICENSE"
+  },
+  "is-promise@4.0.0": {
+    "licenses": "MIT",
+    "repository": "https://github.com/then/is-promise",
+    "publisher": "ForbesLindesay",
+    "path": "D:\\GitProject\\Nhom4_Website-Thuong-Mai-Noi-That\\backend\\node_modules\\is-promise",
+    "licenseFile": "D:\\GitProject\\Nhom4_Website-Thuong-Mai-Noi-That\\backend\\node_modules\\is-promise\\LICENSE"
+  },
+  "math-intrinsics@1.1.0": {
+    "licenses": "MIT",
+    "repository": "https://github.com/es-shims/math-intrinsics",
+    "publisher": "Jordan Harband",
+    "email": "ljharb@gmail.com",
+    "path": "D:\\GitProject\\Nhom4_Website-Thuong-Mai-Noi-That\\backend\\node_modules\\math-intrinsics",
+    "licenseFile": "D:\\GitProject\\Nhom4_Website-Thuong-Mai-Noi-That\\backend\\node_modules\\math-intrinsics\\LICENSE"
+  },
+  "media-typer@1.1.0": {
+    "licenses": "MIT",
+    "repository": "https://github.com/jshttp/media-typer",
+    "publisher": "Douglas Christopher Wilson",
+    "email": "doug@somethingdoug.com",
+    "path": "D:\\GitProject\\Nhom4_Website-Thuong-Mai-Noi-That\\backend\\node_modules\\media-typer",
+    "licenseFile": "D:\\GitProject\\Nhom4_Website-Thuong-Mai-Noi-That\\backend\\node_modules\\media-typer\\LICENSE"
+  },
+  "merge-descriptors@2.0.0": {
+    "licenses": "MIT",
+    "repository": "https://github.com/sindresorhus/merge-descriptors",
+    "path": "D:\\GitProject\\Nhom4_Website-Thuong-Mai-Noi-That\\backend\\node_modules\\merge-descriptors",
+    "licenseFile": "D:\\GitProject\\Nhom4_Website-Thuong-Mai-Noi-That\\backend\\node_modules\\merge-descriptors\\license"
+  },
+  "mime-db@1.54.0": {
+    "licenses": "MIT",
+    "repository": "https://github.com/jshttp/mime-db",
+    "path": "D:\\GitProject\\Nhom4_Website-Thuong-Mai-Noi-That\\backend\\node_modules\\mime-db",
+    "licenseFile": "D:\\GitProject\\Nhom4_Website-Thuong-Mai-Noi-That\\backend\\node_modules\\mime-db\\LICENSE"
+  },
+  "mime-types@3.0.1": {
+    "licenses": "MIT",
+    "repository": "https://github.com/jshttp/mime-types",
+    "path": "D:\\GitProject\\Nhom4_Website-Thuong-Mai-Noi-That\\backend\\node_modules\\mime-types",
+    "licenseFile": "D:\\GitProject\\Nhom4_Website-Thuong-Mai-Noi-That\\backend\\node_modules\\mime-types\\LICENSE"
+  },
+  "minimatch@3.1.2": {
+    "licenses": "ISC",
+    "repository": "https://github.com/isaacs/minimatch",
+    "publisher": "Isaac Z. Schlueter",
+    "email": "i@izs.me",
+    "url": "http://blog.izs.me",
+    "path": "D:\\GitProject\\Nhom4_Website-Thuong-Mai-Noi-That\\backend\\node_modules\\minimatch",
+    "licenseFile": "D:\\GitProject\\Nhom4_Website-Thuong-Mai-Noi-That\\backend\\node_modules\\minimatch\\LICENSE"
+  },
+  "ms@2.1.3": {
+    "licenses": "MIT",
+    "repository": "https://github.com/vercel/ms",
+    "path": "D:\\GitProject\\Nhom4_Website-Thuong-Mai-Noi-That\\backend\\node_modules\\ms",
+    "licenseFile": "D:\\GitProject\\Nhom4_Website-Thuong-Mai-Noi-That\\backend\\node_modules\\ms\\license.md"
+  },
+  "negotiator@1.0.0": {
+    "licenses": "MIT",
+    "repository": "https://github.com/jshttp/negotiator",
+    "path": "D:\\GitProject\\Nhom4_Website-Thuong-Mai-Noi-That\\backend\\node_modules\\negotiator",
+    "licenseFile": "D:\\GitProject\\Nhom4_Website-Thuong-Mai-Noi-That\\backend\\node_modules\\negotiator\\LICENSE"
+  },
+  "nodemon@3.1.10": {
+    "licenses": "MIT",
+    "repository": "https://github.com/remy/nodemon",
+    "publisher": "Remy Sharp",
+    "url": "https://github.com/remy",
+    "path": "D:\\GitProject\\Nhom4_Website-Thuong-Mai-Noi-That\\backend\\node_modules\\nodemon",
+    "licenseFile": "D:\\GitProject\\Nhom4_Website-Thuong-Mai-Noi-That\\backend\\node_modules\\nodemon\\LICENSE"
+  },
+  "normalize-path@3.0.0": {
+    "licenses": "MIT",
+    "repository": "https://github.com/jonschlinkert/normalize-path",
+    "publisher": "Jon Schlinkert",
+    "url": "https://github.com/jonschlinkert",
+    "path": "D:\\GitProject\\Nhom4_Website-Thuong-Mai-Noi-That\\backend\\node_modules\\normalize-path",
+    "licenseFile": "D:\\GitProject\\Nhom4_Website-Thuong-Mai-Noi-That\\backend\\node_modules\\normalize-path\\LICENSE"
+  },
+  "object-inspect@1.13.4": {
+    "licenses": "MIT",
+    "repository": "https://github.com/inspect-js/object-inspect",
+    "publisher": "James Halliday",
+    "email": "mail@substack.net",
+    "url": "http://substack.net",
+    "path": "D:\\GitProject\\Nhom4_Website-Thuong-Mai-Noi-That\\backend\\node_modules\\object-inspect",
+    "licenseFile": "D:\\GitProject\\Nhom4_Website-Thuong-Mai-Noi-That\\backend\\node_modules\\object-inspect\\LICENSE"
+  },
+  "on-finished@2.4.1": {
+    "licenses": "MIT",
+    "repository": "https://github.com/jshttp/on-finished",
+    "path": "D:\\GitProject\\Nhom4_Website-Thuong-Mai-Noi-That\\backend\\node_modules\\on-finished",
+    "licenseFile": "D:\\GitProject\\Nhom4_Website-Thuong-Mai-Noi-That\\backend\\node_modules\\on-finished\\LICENSE"
+  },
+  "once@1.4.0": {
+    "licenses": "ISC",
+    "repository": "https://github.com/isaacs/once",
+    "publisher": "Isaac Z. Schlueter",
+    "email": "i@izs.me",
+    "url": "http://blog.izs.me/",
+    "path": "D:\\GitProject\\Nhom4_Website-Thuong-Mai-Noi-That\\backend\\node_modules\\once",
+    "licenseFile": "D:\\GitProject\\Nhom4_Website-Thuong-Mai-Noi-That\\backend\\node_modules\\once\\LICENSE"
+  },
+  "parseurl@1.3.3": {
+    "licenses": "MIT",
+    "repository": "https://github.com/pillarjs/parseurl",
+    "path": "D:\\GitProject\\Nhom4_Website-Thuong-Mai-Noi-That\\backend\\node_modules\\parseurl",
+    "licenseFile": "D:\\GitProject\\Nhom4_Website-Thuong-Mai-Noi-That\\backend\\node_modules\\parseurl\\LICENSE"
+  },
+  "path-to-regexp@8.2.0": {
+    "licenses": "MIT",
+    "repository": "https://github.com/pillarjs/path-to-regexp",
+    "path": "D:\\GitProject\\Nhom4_Website-Thuong-Mai-Noi-That\\backend\\node_modules\\path-to-regexp",
+    "licenseFile": "D:\\GitProject\\Nhom4_Website-Thuong-Mai-Noi-That\\backend\\node_modules\\path-to-regexp\\LICENSE"
+  },
+  "picomatch@2.3.1": {
+    "licenses": "MIT",
+    "repository": "https://github.com/micromatch/picomatch",
+    "publisher": "Jon Schlinkert",
+    "url": "https://github.com/jonschlinkert",
+    "path": "D:\\GitProject\\Nhom4_Website-Thuong-Mai-Noi-That\\backend\\node_modules\\picomatch",
+    "licenseFile": "D:\\GitProject\\Nhom4_Website-Thuong-Mai-Noi-That\\backend\\node_modules\\picomatch\\LICENSE"
+  },
+  "proxy-addr@2.0.7": {
+    "licenses": "MIT",
+    "repository": "https://github.com/jshttp/proxy-addr",
+    "publisher": "Douglas Christopher Wilson",
+    "email": "doug@somethingdoug.com",
+    "path": "D:\\GitProject\\Nhom4_Website-Thuong-Mai-Noi-That\\backend\\node_modules\\proxy-addr",
+    "licenseFile": "D:\\GitProject\\Nhom4_Website-Thuong-Mai-Noi-That\\backend\\node_modules\\proxy-addr\\LICENSE"
+  },
+  "pstree.remy@1.1.8": {
+    "licenses": "MIT",
+    "repository": "https://github.com/remy/pstree",
+    "publisher": "Remy Sharp",
+    "path": "D:\\GitProject\\Nhom4_Website-Thuong-Mai-Noi-That\\backend\\node_modules\\pstree.remy",
+    "licenseFile": "D:\\GitProject\\Nhom4_Website-Thuong-Mai-Noi-That\\backend\\node_modules\\pstree.remy\\LICENSE"
+  },
+  "qs@6.14.0": {
+    "licenses": "BSD-3-Clause",
+    "repository": "https://github.com/ljharb/qs",
+    "path": "D:\\GitProject\\Nhom4_Website-Thuong-Mai-Noi-That\\backend\\node_modules\\qs",
+    "licenseFile": "D:\\GitProject\\Nhom4_Website-Thuong-Mai-Noi-That\\backend\\node_modules\\qs\\LICENSE.md"
+  },
+  "range-parser@1.2.1": {
+    "licenses": "MIT",
+    "repository": "https://github.com/jshttp/range-parser",
+    "publisher": "TJ Holowaychuk",
+    "email": "tj@vision-media.ca",
+    "url": "http://tjholowaychuk.com",
+    "path": "D:\\GitProject\\Nhom4_Website-Thuong-Mai-Noi-That\\backend\\node_modules\\range-parser",
+    "licenseFile": "D:\\GitProject\\Nhom4_Website-Thuong-Mai-Noi-That\\backend\\node_modules\\range-parser\\LICENSE"
+  },
+  "raw-body@3.0.0": {
+    "licenses": "MIT",
+    "repository": "https://github.com/stream-utils/raw-body",
+    "publisher": "Jonathan Ong",
+    "email": "me@jongleberry.com",
+    "url": "http://jongleberry.com",
+    "path": "D:\\GitProject\\Nhom4_Website-Thuong-Mai-Noi-That\\backend\\node_modules\\raw-body",
+    "licenseFile": "D:\\GitProject\\Nhom4_Website-Thuong-Mai-Noi-That\\backend\\node_modules\\raw-body\\LICENSE"
+  },
+  "readdirp@3.6.0": {
+    "licenses": "MIT",
+    "repository": "https://github.com/paulmillr/readdirp",
+    "publisher": "Thorsten Lorenz",
+    "email": "thlorenz@gmx.de",
+    "url": "thlorenz.com",
+    "path": "D:\\GitProject\\Nhom4_Website-Thuong-Mai-Noi-That\\backend\\node_modules\\readdirp",
+    "licenseFile": "D:\\GitProject\\Nhom4_Website-Thuong-Mai-Noi-That\\backend\\node_modules\\readdirp\\LICENSE"
+  },
+  "router@2.2.0": {
+    "licenses": "MIT",
+    "repository": "https://github.com/pillarjs/router",
+    "publisher": "Douglas Christopher Wilson",
+    "email": "doug@somethingdoug.com",
+    "path": "D:\\GitProject\\Nhom4_Website-Thuong-Mai-Noi-That\\backend\\node_modules\\router",
+    "licenseFile": "D:\\GitProject\\Nhom4_Website-Thuong-Mai-Noi-That\\backend\\node_modules\\router\\LICENSE"
+  },
+  "safe-buffer@5.2.1": {
+    "licenses": "MIT",
+    "repository": "https://github.com/feross/safe-buffer",
+    "publisher": "Feross Aboukhadijeh",
+    "email": "feross@feross.org",
+    "url": "https://feross.org",
+    "path": "D:\\GitProject\\Nhom4_Website-Thuong-Mai-Noi-That\\backend\\node_modules\\safe-buffer",
+    "licenseFile": "D:\\GitProject\\Nhom4_Website-Thuong-Mai-Noi-That\\backend\\node_modules\\safe-buffer\\LICENSE"
+  },
+  "safer-buffer@2.1.2": {
+    "licenses": "MIT",
+    "repository": "https://github.com/ChALkeR/safer-buffer",
+    "publisher": "Nikita Skovoroda",
+    "email": "chalkerx@gmail.com",
+    "url": "https://github.com/ChALkeR",
+    "path": "D:\\GitProject\\Nhom4_Website-Thuong-Mai-Noi-That\\backend\\node_modules\\safer-buffer",
+    "licenseFile": "D:\\GitProject\\Nhom4_Website-Thuong-Mai-Noi-That\\backend\\node_modules\\safer-buffer\\LICENSE"
+  },
+  "semver@7.7.2": {
+    "licenses": "ISC",
+    "repository": "https://github.com/npm/node-semver",
+    "publisher": "GitHub Inc.",
+    "path": "D:\\GitProject\\Nhom4_Website-Thuong-Mai-Noi-That\\backend\\node_modules\\semver",
+    "licenseFile": "D:\\GitProject\\Nhom4_Website-Thuong-Mai-Noi-That\\backend\\node_modules\\semver\\LICENSE"
+  },
+  "send@1.2.0": {
+    "licenses": "MIT",
+    "repository": "https://github.com/pillarjs/send",
+    "publisher": "TJ Holowaychuk",
+    "email": "tj@vision-media.ca",
+    "path": "D:\\GitProject\\Nhom4_Website-Thuong-Mai-Noi-That\\backend\\node_modules\\send",
+    "licenseFile": "D:\\GitProject\\Nhom4_Website-Thuong-Mai-Noi-That\\backend\\node_modules\\send\\LICENSE"
+  },
+  "serve-static@2.2.0": {
+    "licenses": "MIT",
+    "repository": "https://github.com/expressjs/serve-static",
+    "publisher": "Douglas Christopher Wilson",
+    "email": "doug@somethingdoug.com",
+    "path": "D:\\GitProject\\Nhom4_Website-Thuong-Mai-Noi-That\\backend\\node_modules\\serve-static",
+    "licenseFile": "D:\\GitProject\\Nhom4_Website-Thuong-Mai-Noi-That\\backend\\node_modules\\serve-static\\LICENSE"
+  },
+  "setprototypeof@1.2.0": {
+    "licenses": "ISC",
+    "repository": "https://github.com/wesleytodd/setprototypeof",
+    "publisher": "Wes Todd",
+    "path": "D:\\GitProject\\Nhom4_Website-Thuong-Mai-Noi-That\\backend\\node_modules\\setprototypeof",
+    "licenseFile": "D:\\GitProject\\Nhom4_Website-Thuong-Mai-Noi-That\\backend\\node_modules\\setprototypeof\\LICENSE"
+  },
+  "side-channel-list@1.0.0": {
+    "licenses": "MIT",
+    "repository": "https://github.com/ljharb/side-channel-list",
+    "publisher": "Jordan Harband",
+    "email": "ljharb@gmail.com",
+    "path": "D:\\GitProject\\Nhom4_Website-Thuong-Mai-Noi-That\\backend\\node_modules\\side-channel-list",
+    "licenseFile": "D:\\GitProject\\Nhom4_Website-Thuong-Mai-Noi-That\\backend\\node_modules\\side-channel-list\\LICENSE"
+  },
+  "side-channel-map@1.0.1": {
+    "licenses": "MIT",
+    "repository": "https://github.com/ljharb/side-channel-map",
+    "publisher": "Jordan Harband",
+    "email": "ljharb@gmail.com",
+    "path": "D:\\GitProject\\Nhom4_Website-Thuong-Mai-Noi-That\\backend\\node_modules\\side-channel-map",
+    "licenseFile": "D:\\GitProject\\Nhom4_Website-Thuong-Mai-Noi-That\\backend\\node_modules\\side-channel-map\\LICENSE"
+  },
+  "side-channel-weakmap@1.0.2": {
+    "licenses": "MIT",
+    "repository": "https://github.com/ljharb/side-channel-weakmap",
+    "publisher": "Jordan Harband",
+    "email": "ljharb@gmail.com",
+    "path": "D:\\GitProject\\Nhom4_Website-Thuong-Mai-Noi-That\\backend\\node_modules\\side-channel-weakmap",
+    "licenseFile": "D:\\GitProject\\Nhom4_Website-Thuong-Mai-Noi-That\\backend\\node_modules\\side-channel-weakmap\\LICENSE"
+  },
+  "side-channel@1.1.0": {
+    "licenses": "MIT",
+    "repository": "https://github.com/ljharb/side-channel",
+    "publisher": "Jordan Harband",
+    "email": "ljharb@gmail.com",
+    "path": "D:\\GitProject\\Nhom4_Website-Thuong-Mai-Noi-That\\backend\\node_modules\\side-channel",
+    "licenseFile": "D:\\GitProject\\Nhom4_Website-Thuong-Mai-Noi-That\\backend\\node_modules\\side-channel\\LICENSE"
+  },
+  "simple-update-notifier@2.0.0": {
+    "licenses": "MIT",
+    "repository": "https://github.com/alexbrazier/simple-update-notifier",
+    "publisher": "alexbrazier",
+    "path": "D:\\GitProject\\Nhom4_Website-Thuong-Mai-Noi-That\\backend\\node_modules\\simple-update-notifier",
+    "licenseFile": "D:\\GitProject\\Nhom4_Website-Thuong-Mai-Noi-That\\backend\\node_modules\\simple-update-notifier\\LICENSE"
+  },
+  "statuses@2.0.1": {
+    "licenses": "MIT",
+    "repository": "https://github.com/jshttp/statuses",
+    "path": "D:\\GitProject\\Nhom4_Website-Thuong-Mai-Noi-That\\backend\\node_modules\\http-errors\\node_modules\\statuses",
+    "licenseFile": "D:\\GitProject\\Nhom4_Website-Thuong-Mai-Noi-That\\backend\\node_modules\\http-errors\\node_modules\\statuses\\LICENSE"
+  },
+  "statuses@2.0.2": {
+    "licenses": "MIT",
+    "repository": "https://github.com/jshttp/statuses",
+    "path": "D:\\GitProject\\Nhom4_Website-Thuong-Mai-Noi-That\\backend\\node_modules\\statuses",
+    "licenseFile": "D:\\GitProject\\Nhom4_Website-Thuong-Mai-Noi-That\\backend\\node_modules\\statuses\\LICENSE"
+  },
+  "supports-color@5.5.0": {
+    "licenses": "MIT",
+    "repository": "https://github.com/chalk/supports-color",
+    "publisher": "Sindre Sorhus",
+    "email": "sindresorhus@gmail.com",
+    "url": "sindresorhus.com",
+    "path": "D:\\GitProject\\Nhom4_Website-Thuong-Mai-Noi-That\\backend\\node_modules\\supports-color",
+    "licenseFile": "D:\\GitProject\\Nhom4_Website-Thuong-Mai-Noi-That\\backend\\node_modules\\supports-color\\license"
+  },
+  "to-regex-range@5.0.1": {
+    "licenses": "MIT",
+    "repository": "https://github.com/micromatch/to-regex-range",
+    "publisher": "Jon Schlinkert",
+    "url": "https://github.com/jonschlinkert",
+    "path": "D:\\GitProject\\Nhom4_Website-Thuong-Mai-Noi-That\\backend\\node_modules\\to-regex-range",
+    "licenseFile": "D:\\GitProject\\Nhom4_Website-Thuong-Mai-Noi-That\\backend\\node_modules\\to-regex-range\\LICENSE"
+  },
+  "toidentifier@1.0.1": {
+    "licenses": "MIT",
+    "repository": "https://github.com/component/toidentifier",
+    "publisher": "Douglas Christopher Wilson",
+    "email": "doug@somethingdoug.com",
+    "path": "D:\\GitProject\\Nhom4_Website-Thuong-Mai-Noi-That\\backend\\node_modules\\toidentifier",
+    "licenseFile": "D:\\GitProject\\Nhom4_Website-Thuong-Mai-Noi-That\\backend\\node_modules\\toidentifier\\LICENSE"
+  },
+  "touch@3.1.1": {
+    "licenses": "ISC",
+    "repository": "https://github.com/isaacs/node-touch",
+    "publisher": "Isaac Z. Schlueter",
+    "email": "i@izs.me",
+    "url": "http://blog.izs.me/",
+    "path": "D:\\GitProject\\Nhom4_Website-Thuong-Mai-Noi-That\\backend\\node_modules\\touch",
+    "licenseFile": "D:\\GitProject\\Nhom4_Website-Thuong-Mai-Noi-That\\backend\\node_modules\\touch\\LICENSE"
+  },
+  "type-is@2.0.1": {
+    "licenses": "MIT",
+    "repository": "https://github.com/jshttp/type-is",
+    "path": "D:\\GitProject\\Nhom4_Website-Thuong-Mai-Noi-That\\backend\\node_modules\\type-is",
+    "licenseFile": "D:\\GitProject\\Nhom4_Website-Thuong-Mai-Noi-That\\backend\\node_modules\\type-is\\LICENSE"
+  },
+  "undefsafe@2.0.5": {
+    "licenses": "MIT",
+    "repository": "https://github.com/remy/undefsafe",
+    "publisher": "Remy Sharp",
+    "path": "D:\\GitProject\\Nhom4_Website-Thuong-Mai-Noi-That\\backend\\node_modules\\undefsafe",
+    "licenseFile": "D:\\GitProject\\Nhom4_Website-Thuong-Mai-Noi-That\\backend\\node_modules\\undefsafe\\LICENSE"
+  },
+  "unpipe@1.0.0": {
+    "licenses": "MIT",
+    "repository": "https://github.com/stream-utils/unpipe",
+    "publisher": "Douglas Christopher Wilson",
+    "email": "doug@somethingdoug.com",
+    "path": "D:\\GitProject\\Nhom4_Website-Thuong-Mai-Noi-That\\backend\\node_modules\\unpipe",
+    "licenseFile": "D:\\GitProject\\Nhom4_Website-Thuong-Mai-Noi-That\\backend\\node_modules\\unpipe\\LICENSE"
+  },
+  "vary@1.1.2": {
+    "licenses": "MIT",
+    "repository": "https://github.com/jshttp/vary",
+    "publisher": "Douglas Christopher Wilson",
+    "email": "doug@somethingdoug.com",
+    "path": "D:\\GitProject\\Nhom4_Website-Thuong-Mai-Noi-That\\backend\\node_modules\\vary",
+    "licenseFile": "D:\\GitProject\\Nhom4_Website-Thuong-Mai-Noi-That\\backend\\node_modules\\vary\\LICENSE"
+  },
+  "wrappy@1.0.2": {
+    "licenses": "ISC",
+    "repository": "https://github.com/npm/wrappy",
+    "publisher": "Isaac Z. Schlueter",
+    "email": "i@izs.me",
+    "url": "http://blog.izs.me/",
+    "path": "D:\\GitProject\\Nhom4_Website-Thuong-Mai-Noi-That\\backend\\node_modules\\wrappy",
+    "licenseFile": "D:\\GitProject\\Nhom4_Website-Thuong-Mai-Noi-That\\backend\\node_modules\\wrappy\\LICENSE"
+  }
+}
